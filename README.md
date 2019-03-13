@@ -12,9 +12,7 @@ Currently with 7 Gens, meaning 800+ pokémons. Just run the script from time to 
 Tested on a *Linux* environment using *zsh* as the Unix shell.
 + Run the python script `getPokes.py`.
   + You will be prompt to enter a path to download some images.
-<br>
 + Place `pokeTerm.sh` where you want in your computer.
-<br>
 + Add this line to your `.zshrc` :
   + `/path_to_pokeTerm.sh/ /path_to_downloaded_images/`
 
